@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ![Leenus's github stats](https://github-readme-stats.vercel.app/api?username=leenusdarnal&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leenusdarnal)](https://github.com/leenusdarnal/github-readme-stats)
@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Hi there 👋
 -->
