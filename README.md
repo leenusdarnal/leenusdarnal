@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 ### Hi there 👋
 -->
 
- [![Top Langs![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)](https://github-readme-stats.vercel.app/api/top-langs/?username=leenusdarnal)](https://github.com/leenusdarnal/github-readme-stats)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leenusdarnal&show_icons=true&locale=en&layout=compact" alt="leenusdarnal" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leenusdarnal&show_icons=true&locale=en" alt="leenusdarnal" /></p>
+
